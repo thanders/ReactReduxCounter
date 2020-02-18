@@ -11,12 +11,12 @@ class Counter extends Component{
     render(){
         return(
             <div>
-                <CounterOutput value={this.props.ctr}></CounterOutput>
+                <CounterOutput value={this.props.ctr}/>
                 <CounterControl label= "Increment" clicked={this.props.onIncrementCounter}/>
                 <CounterControl label= "Add ten" clicked={this.props.onAddCounter}/>
                 <CounterControl  label= "Reset" clicked={this.props.onResetCounter}/>
                 <hr/>
-                <CounterControl label= "Store Result" clicked={this.props.onStoreResult}/>
+                <CounterControl label= "Store Result" clicked={() => this.props.onStoreResult(this.props.ctr)}/>
 
                 <div>
                     <ul>
@@ -35,8 +35,8 @@ class Counter extends Component{
 // Map React props to Redux state
 const mapStateToProps = state => {
     return {
-      ctr: state.counter,
-        storedResults: state.results
+      ctr: state.ctr.counter,
+        storedResults: state.res.results
     };
 };
 
