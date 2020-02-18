@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dade1ced-40a0-4d6b-a0aa-d45fefc51e4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +40,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -69,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581963030413</updated>
-      <workItem from="1581963032207" duration="17807000" />
+      <workItem from="1581963032207" duration="19462000" />
     </task>
     <servers />
   </component>
@@ -81,5 +84,29 @@
       <screen x="67" y="27" width="1213" height="772" />
     </state>
     <state x="409" y="157" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1213.772@67.27.1213.772" timestamp="1581981733541" />
+    <state width="1190" height="186" key="GridCell.Tab.0.bottom" timestamp="1581994887823">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state width="1190" height="186" key="GridCell.Tab.0.bottom/67.27.1213.772@67.27.1213.772" timestamp="1581994887823" />
+    <state width="1190" height="186" key="GridCell.Tab.0.center" timestamp="1581994887823">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state width="1190" height="186" key="GridCell.Tab.0.center/67.27.1213.772@67.27.1213.772" timestamp="1581994887823" />
+    <state width="1190" height="186" key="GridCell.Tab.0.left" timestamp="1581994887823">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state width="1190" height="186" key="GridCell.Tab.0.left/67.27.1213.772@67.27.1213.772" timestamp="1581994887823" />
+    <state width="1190" height="186" key="GridCell.Tab.0.right" timestamp="1581994887823">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state width="1190" height="186" key="GridCell.Tab.0.right/67.27.1213.772@67.27.1213.772" timestamp="1581994887823" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1581993496164">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/67.27.1213.772@67.27.1213.772" timestamp="1581993496164" />
+    <state x="336" y="120" width="672" height="678" key="search.everywhere.popup" timestamp="1581993496162">
+      <screen x="67" y="27" width="1213" height="772" />
+    </state>
+    <state x="336" y="120" width="672" height="678" key="search.everywhere.popup/67.27.1213.772@67.27.1213.772" timestamp="1581993496162" />
   </component>
 </project>
