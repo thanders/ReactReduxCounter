@@ -13,6 +13,7 @@
     "react-scripts": "3.4.0",
     "redux": "^4.0.5"
   },
+  "homepage": "https://thanders.github.io/ReactReduxCounter",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
