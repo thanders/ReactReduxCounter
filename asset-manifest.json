@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ReactReduxCounter/static/css/main.cc4072ae.chunk.css",
-    "main.js": "/ReactReduxCounter/static/js/main.622ba971.chunk.js",
-    "main.js.map": "/ReactReduxCounter/static/js/main.622ba971.chunk.js.map",
+    "main.js": "/ReactReduxCounter/static/js/main.52e9385d.chunk.js",
+    "main.js.map": "/ReactReduxCounter/static/js/main.52e9385d.chunk.js.map",
     "runtime-main.js": "/ReactReduxCounter/static/js/runtime-main.3759115a.js",
     "runtime-main.js.map": "/ReactReduxCounter/static/js/runtime-main.3759115a.js.map",
     "static/js/2.d361b0f6.chunk.js": "/ReactReduxCounter/static/js/2.d361b0f6.chunk.js",
     "static/js/2.d361b0f6.chunk.js.map": "/ReactReduxCounter/static/js/2.d361b0f6.chunk.js.map",
     "index.html": "/ReactReduxCounter/index.html",
-    "precache-manifest.8bde482e651188fa53051202194f0d65.js": "/ReactReduxCounter/precache-manifest.8bde482e651188fa53051202194f0d65.js",
+    "precache-manifest.ced57b52bce65614706372cc6d7a6520.js": "/ReactReduxCounter/precache-manifest.ced57b52bce65614706372cc6d7a6520.js",
     "service-worker.js": "/ReactReduxCounter/service-worker.js",
     "static/css/main.cc4072ae.chunk.css.map": "/ReactReduxCounter/static/css/main.cc4072ae.chunk.css.map",
     "static/js/2.d361b0f6.chunk.js.LICENSE.txt": "/ReactReduxCounter/static/js/2.d361b0f6.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.3759115a.js",
     "static/js/2.d361b0f6.chunk.js",
     "static/css/main.cc4072ae.chunk.css",
-    "static/js/main.622ba971.chunk.js"
+    "static/js/main.52e9385d.chunk.js"
   ]
 }
