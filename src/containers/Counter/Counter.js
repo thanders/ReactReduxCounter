@@ -3,6 +3,7 @@ import {connect} from 'react-redux';
 import './Counter.css';
 import CounterOutput from '../../components/CounterOutput/CounterOutput';
 import CounterControl from '../../components/CounterControl/CounterControl';
+import * as actionTypes from '../../store/actions';
 
 class Counter extends Component{
 
@@ -42,11 +43,11 @@ const mapStateToProps = state => {
 // Map store.dispatch to props so that React Components can dispatch actions to the reducer. The reducer will then change the state.
 const mapDispatchToProps= dispatch => {
     return {
-        onIncrementCounter: () => dispatch({type: 'INCREMENT'}),
-        onResetCounter: () => dispatch({type: 'RESET'}),
-        onAddCounter: () => dispatch({type: 'ADD', value: 10}),
-        onStoreResult: (result) => dispatch({type: 'STORE_RESULT', result: result}),
-        onDeleteResult: (id) => dispatch({type: 'DELETE_RESULT', resultElID: id})
+        onIncrementCounter: () => dispatch({type: actionTypes.INCREMENT}),
+        onResetCounter: () => dispatch({type: actionTypes.RESET}),
+        onAddCounter: () => dispatch({type: actionTypes.ADD, value: 10}),
+        onStoreResult: (result) => dispatch({type: actionTypes.STORE_RESULT, result: result}),
+        onDeleteResult: (id) => dispatch({type: actionTypes.DELETE_RESULT, resultElID: id})
     }
 };
 
